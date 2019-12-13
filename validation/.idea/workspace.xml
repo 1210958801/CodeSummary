@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19bbeae8-22b0-4693-a3d8-7e26e25c3062" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-uniapp" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-uniapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/src/main/java/com/we/test/entity/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/src/main/java/com/we/test/entity/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithread/src/main/java/com/we/test/main/Execute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/constants/CreaterConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/constants/CreaterConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/controller/CreaterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/controller/CreaterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/entity/WeCreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/entity/WeCreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/CreaterPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/CreaterPo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/DataSourcePo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/DataSourcePo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/ResultPoJo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/ResultPoJo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/ReturnCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/po/ReturnCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/repository/WeCreaterRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/repository/WeCreaterRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/service/CreaterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/service/CreaterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/util/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/util/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/util/MD5Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/java/com/test/mybatisplusdemo/util/MD5Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatisplusdemo/src/main/resources/entity.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisplusdemo/src/main/resources/entity.java.vm" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/Work/DevelopEnvironment/ApacheMaven/MavenRepository/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UuqmVQNp5R5qBmk8IDHE7yzUMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RootConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="validation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.we.validation.ValidationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19bbeae8-22b0-4693-a3d8-7e26e25c3062" name="Default Changelist" comment="" />
+      <created>1576216986101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576216986101</updated>
+      <workItem from="1576216987426" duration="7464000" />
+      <workItem from="1576225541863" duration="5616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

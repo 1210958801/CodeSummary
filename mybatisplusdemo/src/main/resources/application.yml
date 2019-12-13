@@ -1,0 +1,23 @@
+server:
+  port: 6800
+
+logging:
+  level:
+    org.springframework.*: debug
+spring:
+  application:
+    name: we-security-server
+  # 数据源的配置
+  datasource:
+    url: jdbc:mysql://39.106.182.222:3306/yx?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  # MyBatis配置
+  mybatis:
+    mapper-locations: classpath*:/mappings/*.xml
+    config-location: classpath:mybatis-config.xml
+    type-aliases-package: com.shade.cloud.consumer.entity
+we:
+  creater:
+    parent: com.test.mybatisplusdemo

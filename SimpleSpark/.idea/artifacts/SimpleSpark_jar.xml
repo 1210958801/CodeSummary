@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleSpark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleSpark_jar</output-path>
+    <root id="archive" name="SimpleSpark.jar">
+      <element id="module-output" name="SimpleSpark" />
+    </root>
+  </artifact>
+</component>
